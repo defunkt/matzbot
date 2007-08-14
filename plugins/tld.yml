@@ -1,0 +1,323 @@
+--- 
+:tl: East Timor Old code .tp is still in use
+:mn: Mongolia
+:coop: cooperatives The .coop TLD is limited to cooperatives as defined by the Rochdale Principles
+:eun.eg: Egyptian Universities Network
+:edu.eg: Egypt Educational sites
+:sci.eg: Egypt Scientific Sites
+:gov.eg: Egypt Governmental Sites
+:com.eg: Egypt Commercial Sites
+:org.eg: Egyptian Organizations
+:net.eg: Egypt Networking
+:mil.eg: Egypt military sites
+:hu: Hungary
+:pk: Pakistan
+:bd: Bangladesh
+:sz: Swaziland
+:dj: Djibouti
+:ly: Libya
+:aero: air-transport industry Must verify eligibility for registration; only those in various categories of air-travel-related entities may register.
+:ws: Samoa Formerly Western Samoa
+:nz: New Zealand
+:as: American Samoa
+:gw: Guinea-Bissau
+:la: Laos
+:lv: Latvia
+:root: unknown This is in root for some unknown purpose, with only one entry (a TXT record).
+:sn: Senegal
+:sl: Sierra Leone
+:co: Colombia
+:vc: Saint Vincent and the Grenadines
+:gh: Ghana
+:ch: "Switzerland (Confoederatio Helvetica) "
+:nf: Norfolk Island
+:ag: Antigua and Barbuda
+:ca: Canada
+:ki: Kiribati
+:sd: Sudan
+:ug: Uganda
+:pro: professions Currently, .pro is reserved for licensed doctors, attorneys, and certified public accountants only. A professional seeking to register a .pro domain must provide their registrar with the appropriate credentials.
+:cn: Peoples Republic of China Mainland China only
+:cl: Chile
+:fo: Faroe Islands
+:mw: Malawi
+:re: "Reunion AFNIC does not allow .re registrations from organisations or individuals outside Ile de Reunion."
+:bo: Bolivia
+:at: Austria
+:id: Indonesia
+:je: Jersey
+:tn: Tunisia
+:mp: Northern Mariana Islands
+:gov: governmental The .gov TLD is limited to US governmental entities and agencies
+:es: Spain
+:il: Israel
+:pm: Saint-Pierre and Miquelon
+:bf: Burkina Faso
+:td: Chad
+:gs: South Georgia and the South Sandwich Islands
+:dm: Dominica
+:mc: Monaco
+:yt: Mayotte
+:pa: Panama
+:aw: Aruba
+:pw: Palau
+:hk: Hong Kong Special administrative region of the Peoples Republic of China
+:li: Liechtenstein
+:so: Somalia
+:cu: Cuba
+:st: "S\xE3o Tom\xE9 and Pr\xEDncipe"
+:vg: British Virgin Islands
+:gl: Greenland
+:ni: Nicaragua
+:am: Armenia
+:sg: Singapore
+:cf: Central African Republic
+:kn: Saint Kitts and Nevis
+:um: United States Minor Outlying Islands
+:my: Malaysia
+:xxx: PornographyPornographic
+:gb: United Kingdom (Great Britain) Seldom used; the primary ccTLD is :uk
+:jo: Jordan
+:com: commercial This is an open TLD; any person or entity is permitted to register.
+:ru: Russia
+:bs: Bahamas
+:md: Moldova
+:tt: Trinidad and Tobago
+:eu: European Union Restricted to companies and individuals in the European Union
+:mr: Mauritania
+:mil: Military of the United StatesUnited States Military The .mil TLD is limited to use by the U.S. military.
+:pr: Puerto Rico
+:bh: Bahrain
+:in: "India"
+:co.in: "India"
+:firm.in: "India"
+:net.in: "India"
+:org.in: "India"
+:gen.in: "India"
+:ind.in: "India"
+:tg: Togo
+:mh: Marshall Islands
+:dz: Algeria Not available for private use
+:za: South Africa
+:hn: Honduras
+:pf: French Polynesia Clipperton Island
+:az: Azerbaijan
+:su: former Soviet Union Still in use
+:cy: Cyprus
+:lr: Liberia
+:no: Norway Must be registered with a company in Norway to register.
+:vn: Vietnam
+:np: Nepal
+:ao: Angola
+:gq: Equatorial Guinea
+:name: individuals, by name This is an open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not by individuals (or the owners of fictional characters) in accordance with the domains charter
+:kw: Kuwait
+:lt: Lithuania
+:si: Slovenia
+:ci: "C\xF4te d'Ivoire"
+:uy: Uruguay
+:ge: Georgia (country)Georgia
+:gp: Guadeloupe
+:na: Namibia
+:ad: Andorra
+:sa: Saudi Arabia
+:bw: Botswana
+:ke: Kenya
+:tw: Taiwan, Province of China Used in the area under the effective control of the Government of the Republic of China, namely Taiwan, Penghu, Kinmen, and Matsu IslandsMatsu
+:mt: Malta
+:museum: museums Must be verified as a legitimate museum.
+:fj: Fiji
+:ir: Iran
+:pt: Portugal Only available for Portuguese registered brands and companies
+:bj: Benin
+:tj: Tajikistan
+:ee: Estonia
+:ml: Mali
+:ai: Anguilla
+:zw: Zimbabwe
+:bb: Barbados
+:ht: Haiti
+:ph: Philippines
+:sy: Syria
+:arpa: Address and Routing Parameter Area This is an internet infrastructure tld.
+:de: Germany
+:lu: Luxembourg
+:wf: Wallis and Futuna
+:nu: Niue Commonly used for Swedish and Dutch websites.
+:com.ar: Argentina
+:edu.ar: Argentina
+:gov.ar: Argentina
+:int.ar: Argentina
+:net.ar: Argentina
+:mil.ar: Argentina
+:org.ar: Argentina
+:gu: Guam
+:kz: Kazakhstan
+:cc: Cocos IslandsCocos (Keeling) Islands
+:sk: Slovakia
+:cm: Cameroon
+:va: Vatican CityVatican City State
+:mm: Myanmar
+:gg: Guernsey
+:jobs: companies The .jobs TLD is designed to be added after the names of established companies with jobs to advertise. At this time, owners of a "company.jobs" domain are not permitted to post jobs of third party employers.
+:ne: Niger
+:af: Afghanistan
+:sc: Seychelles
+:bz: Belize
+:kh: Cambodia
+:ua: Ukraine
+:mv: Maldives
+:org: organization This is an open TLD; any person or entity is permitted to register.
+:fm: Federated States of Micronesia Used for some radio related websites outside Micronesia
+:it: Italy Restricted to companies and individuals in the European Union
+:qa: Qatar
+:bn: BruneiBrunei Darussalam
+:tm: Turkmenistan
+:com.er: Eritrea
+:edu.er: Eritrea 
+:gov.er: Eritrea 
+:edu: educational The .edu TLD is limited to institutions of learning (mostly U.S.), such as 2 and 4-year colleges and universities.
+:pl: Poland
+:be: Belgium
+:int: international organizations The .int TLD is strictly limited to organizations, offices, and programs which are endorsed by a treaty between two or more nations.
+:ie: Republic of Ireland (Local usage only)
+:tc: Turks and Caicos Islands
+:ma: Morocco (Local contact required)
+:co.ma: Morocco (Local contact required)
+:lc: Saint Lucia
+:dk: Denmark
+:ye: Yemen
+:gy: Guyana
+:com.om: Oman
+:edu.om: Oman
+:gov.om: Oman
+:org.om: Oman
+:med.om: Oman
+:net.om: Oman
+:au: Australia Includes Ashmore and Cartier Islands and Coral Sea Islands
+:sm: San Marino
+:cr: Costa Rica
+:lb: Lebanon
+:cv: Cape Verde
+:ve: Venezuela
+:bt: Bhutan
+:ng: Nigeria
+:gov.al: Albania
+:edu.al: Albania
+:org.al: Albania
+:com.al: Albania
+:net.al: Albania
+:gi: Gibraltar
+:km: Comoros
+:se: Sweden
+:cd: Democratic Republic of the Congo Formerly Zaire
+:uk: United Kingdom
+:ga: Gabon
+:mx: Mexico
+:travel: travel and travel-agency related sites Must be verified as a legitimate travel-related entity.
+:tk: Tokelau Also used as a free domain service to the public
+:ro: Romania
+:br: Brazil
+:jm: Jamaica
+:tp: East Timor ISO code has changed to TL; .tl is now assigned but .tp is still in use
+:mq: Martinique
+:info: information This is an open TLD; any person or entity is permitted to register.
+:com.et: Ethiopia
+:org.et: Ethiopia
+:gov.et: Ethiopia
+:edu.et: Ethiopia
+:net.et: Ethiopia
+:biz.et: Ethiopia
+:to: Tonga
+:im: Isle of Man
+:gm: The Gambia
+:pn: Pitcairn Islands
+:bg: Bulgaria
+:tf: French Southern and Antarctic Lands
+:do: Dominican Republic
+:mg: Madagascar
+:yu: Federal Republic of YugoslaviaYugoslavia Now used for Serbia and Montenegro
+:ax: Aland (Registration only available for residents)
+:hm: Heard Island and McDonald Islands
+:pe: Peru
+:sr: Suriname
+:cx: Christmas Island
+:lk: Sri Lanka
+:vi: U.S. Virgin Islands
+:nl: Netherlands
+:an: Netherlands Antilles (Local usage only)
+:gn: Guinea
+:kr: South Korea
+:sh: Saint Helena
+:cg: Republic of the Congo
+:us: United StatesUnited States of America
+:gd: Grenada
+:mz: Mozambique
+:ac: Ascension Island
+:rw: Rwanda
+:bv: Bouvet Island Not in use (Norwegian dependency; see .no)
+:jp: Japan
+:tv: Tuvalu Also sold as advertising domains
+:ms: Montserrat
+:mobi: mobile devices Must be used for mobile-compatible sites in accordance with standards.
+:fi: Finland
+:iq: Iraq
+:ps: Palestinian territories PA-controlled West Bank and Gaza Strip
+:bi: Burundi
+:ac.th: Thailand
+:co.th: Thailand
+:in.th: Thailand
+:go.th: Thailand
+:mi.th: Thailand
+:or.th: Thailand
+:net.th: Thailand
+:ec: Ecuador
+:mk: Republic of Macedonia
+:zm: Zambia
+:pg: Papua New Guinea
+:ba: Bosnia and Herzegovina
+:gr: Greece
+:hr: Croatia
+:sv: El Salvador
+:ls: Lesotho
+:cz: Czech Republic
+:vu: Vanuatu
+:gt: Guatemala
+:nr: Nauru
+:aq: Antarctica Defined as per the Antarctic Treaty SystemAntarctic Treaty as everything south of latitude 60S
+:sj: Svalbard and Jan Mayen Islands Not in use (Norwegian dependencies; see .no)
+:co.ck: Cook Islands (Companies must use name based on their legal name)
+:org.ck: Cook Islands
+:edu.ck: Cook Islands
+:gov.ck: Cook Islands
+:net.ck: Cook Islands
+:ky: Cayman Islands
+:uz: Uzbekistan
+:io: British Indian Ocean Territory
+:nc: New Caledonia
+:ae: United Arab Emirates
+:fr: France Can only be used by organisations or persons with a precence in France.
+:gf: French Guiana
+:kg: Kyrgyzstan
+:sb: Solomon Islands
+:by: Belarus Limited to Belarus residents; third-level subdomains have specific restrictions
+:co.tz: Tanzania
+:ac.tz: Tanzania
+:ne.tz: Tanzania
+:or.tz: Tanzania
+:go.tz: Tanzania
+:fk: Falkland Islands
+:mu: Mauritius
+:net: network This is an open TLD; any person or entity is permitted to register.
+:tr: Turkey
+:py: Paraguay
+:bm: Bermuda
+:is: Iceland
+:biz: business This is an open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not by commercial entities in accordance with the domains charter.
+:cat: Catalan This is a TLD for websites in the Catalan language or related to Catalan culture.
+:com.mo: Macau Special administrative region of the Peoples Republic of China
+:edu.mo: Macau Special administrative region of the Peoples Republic of China
+:net.mo: Macau Special administrative region of the Peoples Republic of China
+:org.mo: Macau Special administrative region of the Peoples Republic of China
+:gov.mo: Macau Special administrative region of the Peoples Republic of China
+
