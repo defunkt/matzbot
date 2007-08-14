@@ -60,7 +60,7 @@ module MatzBot
       Process.kill("TERM", pid) rescue nil
     end
 
-    def store(pid)
+    def store(pid=Process.pid)
       if File.file? pid_fn
         puts "** Already started with PID #{File.read(pid_fn)}"
         exit!

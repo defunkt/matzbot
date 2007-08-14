@@ -1,25 +1,0 @@
-[08/14/2007 04:33 PM PST] Connecting to irc.us.freenode.net:6667... 
-[08/14/2007 04:33 PM PST] Error from server: ERROR :Closing Link: 127.0.0.1 (Connection Timed Out)
- 
-[08/14/2007 04:34 PM PST] Connecting to irc.us.freenode.net:6667... 
-[08/14/2007 04:34 PM PST] Connecting to irc.us.freenode.net:6667... 
-[08/14/2007 04:34 PM PST] <freenode-connect> : VERSION 
-[08/14/2007 04:35 PM PST] <evan> : crazybot1234: blah 
-[08/14/2007 04:38 PM PST] Connecting to irc.us.freenode.net:6667... 
-[08/14/2007 04:38 PM PST] <freenode-connect> : VERSION 
-[08/14/2007 04:38 PM PST] <evan> : sweet. 
-[08/14/2007 04:38 PM PST] <evan> : crazybot1234: botsnack 
-[08/14/2007 04:38 PM PST] <evan> : hm. 
-[08/14/2007 04:39 PM PST] <evan> : crazybot1234: defunkt 
-[08/14/2007 04:39 PM PST] <evan> : hehe 
-[08/14/2007 04:42 PM PST] <Defiler> : Hah 
-[08/14/2007 04:42 PM PST] <evan> : i'm getting a git bot working 
-[08/14/2007 04:42 PM PST] <evan> : obviously 
-[08/14/2007 04:43 PM PST] <evan> : u 
-[08/14/2007 04:43 PM PST] <Defiler> : We need it working soon so that sassy commit messages will have an audience 
-[08/14/2007 04:44 PM PST] <evan> : t 
-[08/14/2007 04:44 PM PST] <evan> : GR 
-[08/14/2007 04:44 PM PST] <evan> : u 
-[08/14/2007 04:44 PM PST] <evan> : there we go. 
-[08/14/2007 04:49 PM PST] <evan> : crazybot1234: hax 3 + 4 
-[08/14/2007 04:49 PM PST] <evan> : crazybot1234: hax 3 + 4 

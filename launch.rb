@@ -54,10 +54,13 @@ Choice.options do
 end
 
 MatzBot::Session.load unless Choice.choices[:daemonize] == 'stop'
+
+require 'daemon'
+
 if Choice.choices[:daemonize]
-  require 'daemon'
   MatzBot::Daemonize.daemonize(Choice.choices.merge('daemonize' => Choice.choices[:daemonize] == 'stop' ? 'stop' : 'start'))
 else
+  MatzBot::Daemonize.store
   begin
     MatzBot::Client.start(Choice.choices)
   ensure
