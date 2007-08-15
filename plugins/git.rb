@@ -24,10 +24,10 @@ module MatzBot::Commands
       name =  REXML::XPath.first(entry, "./author/name")
       hash = link.attributes['href'].split("=").last
       
+      break if hash == last_hash
+      
       last_hash = hash if i == 1
       
-      break if hash == last_hash
-
       count = 0
       REXML::XPath.each(entry, "./content/div/ul/li") { |e| count += 1 }
       say "#{hash[0..7]} by #{name.text}, #{count} files changed"
